@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://youngerm@222.198.0.4/home/youngerm/dvc
+    ask_password = true
+    port = 22
